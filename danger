@@ -1,0 +1,7 @@
+i=15
+
+if i>10:
+  print( yesssss)
+else:
+   print(noooo)
+   
